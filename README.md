@@ -4,6 +4,8 @@
 
 This project, **Orthopedic Patient Data Management and Analysis System**, is a comprehensive solution designed to streamline the management, analysis, and visualization of orthopedic patient data. It addresses key challenges faced by existing systems, including data fragmentation, limited analytics capabilities, poor usability, and compliance issues. This project was generously funded and supported by the **Indian Orthopaedics Association**.
 
+## Demo
+
 
 ## Problem Statement
 
